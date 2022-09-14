@@ -1,6 +1,6 @@
 Welcome , Im Jordan, a self taught programmer specialized in web-development;
 
-`#FF0000`
+`#0d1117`
 - 🔭 I’m currently working as a **React Dev**;
 - 🌱 I’m currently learning **Node.js, Typescript**
 - 🤔 I love building, managing and optimizing an amazing websites and applications.
