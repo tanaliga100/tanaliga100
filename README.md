@@ -1,13 +1,12 @@
 Welcome , Im Jordan, a self taught programmer specialized in web-development;
 
-`#0d1117`
-- 🔭 I’m currently working as a **React Dev**;
+- 🔭 I’m currently working as a Front-End Dev - **React Dev** but planning to venture on Backend-Development using Node.js 
 - 🌱 I’m currently learning **Node.js, Typescript**
-- 🤔 I love building, managing and optimizing an amazing websites and applications.
+- 😁 I love building, managing and optimizing an amazing websites and applications.
 - 📫 How to reach me: **jordantanaliga@gmail.com**
 - ⚡ Fun fact: I teach music lessons primarily piano and guitar :) 
 
 [Linked In](https://www.linkedin.com/in/jordan-tanaliga-664b801a3/)
 
 
-> Whatyouever I do, I do it enthusiastically so people will love it more...
+> Whatever I do, I do it enthusiastically so people will love it more...
