@@ -1,4 +1,4 @@
-Welcome , Im Jordan, a self taught programmer specialized in web-development;
+Welcome , Im Jordan, a self taught programmer from Philippines specialized in web-development;
 
 - 🔭 I’m currently working as a Front-End Dev - **React Dev** but planning to venture on Backend-Development using Node.js & Express
 - 🌱 I’m currently learning **Node.js, Typescript**
