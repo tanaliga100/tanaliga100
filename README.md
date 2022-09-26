@@ -12,4 +12,4 @@ Welcome , Im Jordan, a self taught programmer from Philippines specialized in we
 > Whatever I do, I do it enthusiastically so people will love it more...
 
 
-https://spotify-github-profile.vercel.app/api/view.svg?uid=12174717869&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12174717869&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)
+(https://spotify-github-profile.vercel.app/api/view.svg?uid=12174717869&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12174717869&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)
