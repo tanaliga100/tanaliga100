@@ -1,15 +1,16 @@
 # Hi 👋 , Welcome :)
-#### I'm Jordan Tanaliga ,a self taught programmer from Philippines specialized in web-development...
+#### I'm Jordan Tanaliga ,a self taught programmer from &nbsp; <img src="https://user-images.githubusercontent.com/43674051/207541275-94007381-3c26-4832-abb1-33b48377d55d.png" width="30" height="15" /> &nbsp; specialized in web-development...
 ###
 > Whatever I do, I do it enthusiastically so people will love it more...
 #
 
-<img src="https://user-images.githubusercontent.com/43674051/207014162-6cc6df59-256a-46cf-9725-38fe11695a64.png" width="30%" height="180" align="right">
+
 
 
 - 🔭 I’m currently working as a Front-End Dev - **React Dev** but planning to venture on Backend-Development using Node.js & Express as I am subsequently learning backend architecture atm.
 - 😁 I love building, managing and optimizing an amazing websites and applications.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me : **jordantanaliga@gmail.com**
+
 
 
 
@@ -37,5 +38,4 @@
 <a href="https://www.linkedin.com/in/jordan-tanaliga-664b801a3/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/jordantanaliga100/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
-<br/>
 
