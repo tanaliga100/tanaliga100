@@ -18,11 +18,10 @@
 ### 💼 Technical Skills
 
 
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=F7DF1E) &nbsp;
-![](https://img.shields.io/badge/Code-TYPESCRIPT-informational?style=for-the-badge&logo=TYPESCRIPT&color=blue) &nbsp;
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML5&color=E34F26) &nbsp;
 ![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=CSS3&color=crimson) &nbsp;
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=F7DF1E) &nbsp;
+![](https://img.shields.io/badge/Code-TYPESCRIPT-informational?style=for-the-badge&logo=TYPESCRIPT&color=blue) &nbsp;
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&color=61DAFB) &nbsp;
 ![](https://img.shields.io/badge/Code-NODE.JS-informational?style=for-the-badge&logo=NODE.JS&color=teal) &nbsp;
 ![](https://img.shields.io/badge/Code-NEXT.JS-informational?style=for-the-badge&logo=NEXT.JS&color=111) &nbsp;
