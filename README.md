@@ -2,7 +2,7 @@
 ### I'm Jordan Tanaliga ,a self taught programmer from &nbsp; <img src="https://user-images.githubusercontent.com/43674051/207541275-94007381-3c26-4832-abb1-33b48377d55d.png" width="25" height="8" /> | Philippines &nbsp; 
 ### 
 #
-- 🔭 I’m currently working as a Front-End Dev - **React Dev** but planning to ventures on Backend-Development using Node.js & Express as I am subsequently learning backend architecture atm.
+- 🔭 I’m currently working as a Front-End Dev - **React Dev** but planning to ventured on Backend-Development using Node.js & Express as I am subsequently learning backend architecture atm.
 - 😁 I love building, managing and optimizing an amazing websites and applications.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me : **jordantanaliga@gmail.com**
 #
