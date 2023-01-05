@@ -1,4 +1,4 @@
-# Hi 👋
+<!-- # Hi 👋
 ### I'm Jordan Tanaliga ,a self taught programmer from &nbsp; <img src="https://user-images.githubusercontent.com/43674051/207541275-94007381-3c26-4832-abb1-33b48377d55d.png" width="25" height="8" /> | Philippines &nbsp; 
 ### 
 #
@@ -17,4 +17,4 @@
 #
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/jordan-tanaliga-664b801a3/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/jordantanaliga100/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/jordantanaliga100/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a> -->
