@@ -1,3 +1,5 @@
+#redirecting...trying todo better...
+
 <!-- # Hi 👋
 ### I'm Jordan Tanaliga ,a self taught programmer from &nbsp; <img src="https://user-images.githubusercontent.com/43674051/207541275-94007381-3c26-4832-abb1-33b48377d55d.png" width="25" height="8" /> | Philippines &nbsp; 
 ### 
