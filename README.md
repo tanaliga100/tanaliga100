@@ -5,7 +5,7 @@
 
 <div align="center">
   <div> 
-    <h3 style="letter-spacing: 2px; color: #FFA500" > ... redirecting && trying todo better ... </h3>
+    <h6 style="letter-spacing: 2px; color: #FFA500" > ... redirecting && trying todo better ... </h6>
   </div>
 <!--  <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanaliga100&layout=compact&langs_count=10&theme=transparent&show_icons=true&hide_progress=false" />
