@@ -7,10 +7,10 @@
   <div> 
     <h3 style="letter-spacing: 2px; color: #FFA500" > ... redirecting && trying todo better ... </h3>
   </div>
- <div align="center"> 
+<!--  <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanaliga100&layout=compact&langs_count=10&theme=transparent&show_icons=true&hide_progress=false" />
     <img src="https://github-readme-stats.vercel.app/api?username=tanaliga100&theme=transparent&show_icons=true" />
- </div>
+ </div> -->
 </div>
 <!-- # Hi 👋
 ### I'm Jordan Tanaliga ,a self taught programmer from &nbsp; <img src="https://user-images.githubusercontent.com/43674051/207541275-94007381-3c26-4832-abb1-33b48377d55d.png" width="25" height="8" /> | Philippines &nbsp; 
